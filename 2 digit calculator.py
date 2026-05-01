@@ -1,0 +1,6 @@
+a = int(input("enter the first digit of your simple calculator"))
+b = int(input("enter the second digit of your simple calculator"))
+print(f"the addition of these two numbers is {a + b}")
+print(f"the subtraction of these two numbers is {a - b}")
+print(f"the multiplication of these two numbers is {a * b}")
+print(f"the division of these two numbers is {a / b}")
