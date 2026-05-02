@@ -1,0 +1,8 @@
+a = int(input("put the value of a"))
+b = int(input("put the value of b"))
+print(f"the addition is {a+b}")
+print(f"the subtraction is {a-b}")
+print(f"the multiplication is {a*b}")
+print(f"the power is {a**b}")
+print(f"the reminder is {a/b}")
+print(f"the division is {a%b}")
